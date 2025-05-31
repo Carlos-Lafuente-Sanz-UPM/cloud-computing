@@ -11,7 +11,7 @@
 
 ### 📁 Estructura del proyecto:
 - `scripts/`: Scripts de Azure CLI para configuración
-- `README.md/`: README del proyecto
+- `README.md`: README del proyecto
 
 ---
 **Autor:** Carlos Lafuente Sanz
