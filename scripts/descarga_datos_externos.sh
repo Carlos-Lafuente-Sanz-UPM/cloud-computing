@@ -1,0 +1,1 @@
+wget https://raw.githubusercontent.com/ETSISI-OGVD/azure_synapse_labs/main/dataingestion/products.csv

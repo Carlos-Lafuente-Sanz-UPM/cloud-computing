@@ -1,0 +1,7 @@
+SynapseResourceGroup="synapse-ogvd-rg"
+location="westeurope"
+StorageAccountName="datalakeogvdlabs"
+SynapseWorkspaceName="synapse-ws-ogvd-labs"
+filesystem="fsogvd"
+SqlUser="sqladminuser"
+SqlPassword="*Optimizaciongvd"
